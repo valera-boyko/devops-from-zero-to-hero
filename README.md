@@ -1,2 +1,3 @@
 # devops-from-zero-to-hero
-<img width="2745" height="1308" alt="image" src="https://github.com/user-attachments/assets/7ef8a466-068d-48d7-8926-b6e46011b2ec" />
+<img width="3023" height="1340" alt="image" src="https://github.com/user-attachments/assets/59c86cf9-5c44-4666-8741-d812725d9e82" />
+
